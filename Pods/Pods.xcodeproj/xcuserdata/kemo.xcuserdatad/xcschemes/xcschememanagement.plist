@@ -4,37 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-AFNetworking.xcscheme</key>
+		<key>AFNetworking.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-HexColors.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SVProgressHUD.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SVPullToRefresh.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TSMessages.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-TTTAttributedLabel.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods.xcscheme</key>
+		<key>Pods-InstagramFeed.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -42,37 +17,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>2576BB1397B6AF9F143F1268</key>
+		<key>258032EA6719C238ABA754A7B34C522F</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>867E8CF1CAFE14F09CD6CE34</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>B103F13C6C35E83DD39207CA</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DECE9FAFDB7EA26AB9F0A045</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F3FDF508CDA4CE82EA7E54A5</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F797C175B6CB645E2D210516</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>FC415D0629E2818BB59D1B0C</key>
+		<key>2A5B7CA1AA7EAFBA682EF8F829120D44</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import AFNetworking
 
 
 class PhotoTableViewCell: UITableViewCell {
@@ -24,4 +25,7 @@ class PhotoTableViewCell: UITableViewCell {
         // Configure the view for the selected state
     }
 
+    func setThumbnail(ImageURL: String) {
+        self.thumbnuailImage.setImageWithURL(NSURL(string :ImageURL)!)
+    }
 }

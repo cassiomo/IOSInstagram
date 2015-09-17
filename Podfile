@@ -5,8 +5,3 @@ use_frameworks!
 target 'InstagramFeed' do
    pod 'AFNetworking', '~> 2.6.0'
 end
-
-target 'InstagramFeedTests' do
-
-end
-
